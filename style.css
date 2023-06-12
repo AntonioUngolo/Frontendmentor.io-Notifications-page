@@ -56,6 +56,13 @@ body {
   margin-bottom: 31px;
 }
 
+.title {
+	display: flex;
+	align-items: center;
+	font-size: 24px;
+	gap: 11px;
+}
+
 .notification-panel .options .title .count-notification {
   background-color: var(--Blue);
   color: var(--White);
