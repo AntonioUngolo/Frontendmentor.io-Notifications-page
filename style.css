@@ -33,11 +33,11 @@ body {
   font-size: 16px;
   font-family: 'Plus Jakarta Sans', sans-serif;
   background-color: var(--Very-light-grayish-blue);
-  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+	padding: 63px 0;
 }
 
 .notification-panel {
